@@ -1,2 +1,2 @@
-# Lab7
+# python Lab7
 python
